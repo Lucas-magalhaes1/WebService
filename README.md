@@ -1,4 +1,4 @@
-# Cliente SOAP para Serviço de Calculadora
+# Cliente SOAP para Web service
 
 Simples cliente SOAP em C# para consumir um serviço web de calculadora. O serviço oferece as operações básicas. 
 
